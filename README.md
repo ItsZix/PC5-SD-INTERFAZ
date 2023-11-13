@@ -11,4 +11,3 @@ Así mismo para el funcionamiento de una comunicación serial el archivo CodigoA
 # -Olazábal Cabrejos, Ubaldo 
 # -Silva Ramos, Anghelo Omar 
 # -Torres Zurita, Cristian Abel 
-
